@@ -62,11 +62,6 @@
             "serverName": "CH Gaming Club Server"
         },
         {
-            "id": "563139253542846474",
-            "logoURL": "https://raw.githubusercontent.com/DiscordCSL/database/main/res/bonelab_server.svg",
-            "serverName": "BONELAB"
-        },
-        {
             "id": "689933814864150552",
             "logoURL": "https://raw.githubusercontent.com/DiscordCSL/database/main/res/vizality_server.svg",
             "serverName": "Vizality"
