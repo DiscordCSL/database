@@ -68,12 +68,6 @@
             "serverType": "community"
         },
         {
-            "id": "689933814864150552",
-            "logoURL": "https://raw.githubusercontent.com/DiscordCSL/database/main/res/vizality_server.svg",
-            "serverName": "Vizality",
-            "serverType": "community"
-        },
-        {
             "id": "891039687785996328",
             "logoURL": "https://raw.githubusercontent.com/DiscordCSL/database/main/res/kernel_server.svg",
             "serverName": "Kernel Mod",
