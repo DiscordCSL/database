@@ -2,12 +2,6 @@
     "latestVersion": "5.0.0",
     "servers": [
         {
-            "id": "895642817995632682",
-            "logoURL": "https://raw.githubusercontent.com/DiscordCSL/database/main/res/main_server_uwu.svg",
-            "serverName": "Discord Custom Server Logos",
-            "serverType": "community"
-        },
-        {
             "id": "831170964237713479",
             "logoURL": "https://raw.githubusercontent.com/DiscordCSL/database/main/res/lighty_server.svg",
             "serverName": "Lighty Emojis",
